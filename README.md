@@ -3,6 +3,8 @@
 [![Codacy](https://app.codacy.com/project/badge/Grade/ef799bba8a7343818af0a90eba3ecb46)](https://www.codacy.com/gh/kai-morich/usb-serial-for-android-mik3y/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kai-morich/usb-serial-for-android-mik3y&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/mik3y/usb-serial-for-android/branch/master/graph/badge.svg)](https://codecov.io/gh/mik3y/usb-serial-for-android)
 
+# Cognixion Fork 2023 June 21
+
 # usb-serial-for-android
 
 This is a driver library for communication with Arduinos and other USB serial hardware on
